@@ -22,6 +22,7 @@ When watching a movie with multiple monitors it can be cumbersome to turn them a
 # FAQ
 ## Can this work with Mac or Linux?
 Yes, but I do not have either, so I can not compile them. If you have one of these machines then you can download the source and run one of the following commands.
+
 `npm run build -- --mac`
 
 `npm run build -- --linux`
@@ -34,3 +35,6 @@ The portable version loads a bit slower due to needing to unpack everything. If 
 
 # Icon
 Icon was modified from the original computer-desktop icon on Heroicons.
+
+# Notice
+Prolonged use of Lower the Curtain may potentially lead to unforeseen issues such as screen burn-in, hardware strain, or other damage. Use at your own risk.
