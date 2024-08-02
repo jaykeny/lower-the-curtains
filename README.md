@@ -1,8 +1,8 @@
 # About Lower the Curtains
-When watching a movie with multiple monitors it can be cumbersome to turn them all off except for the primary monitor. If the monitors use Display Port it's even more annoying since it disconnects and rearranges the monitors. The goal of Lower the Curtains was to make it easy to make all monitors except the primary go dark at once.
+When watching a movie with multiple monitors it can be cumbersome to turn them all off except for the primary monitor. If the monitors use Display Port it's even more annoying since it disconnects and rearranges the monitors. Even with Win + P it can make the wrong monitor the primary and force you to move all your windows back to the correct monitors. The goal of Lower the Curtains was to make it easy to make all monitors except the primary go dark at once. 
 
 # Warning
-Prolonged use of Lower the Curtain may potentially lead to unforeseen issues such as screen burn-in, hardware strain, or other damage. OLEDS are generally more susceptible to burn in, but it can happen to any monitor. Use at your own risk.
+Prolonged use of Lower the Curtain may potentially lead to unforeseen issues such as excess power use, screen burn-in, hardware strain, or other damage. This likely works better on OLEDS since all the pixels would turn off, thus saving power, but if you use another type of monitor keep in mind, it will still consume power and add excess wear. Some monitors are generally more susceptible to burn in, but it can happen to any monitor. Use at your own risk.
 
 # Installation
 ## EXE
