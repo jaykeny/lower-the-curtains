@@ -20,7 +20,7 @@ Prolonged use of Lower the Curtain may potentially lead to unforeseen issues suc
 1. Follow the process for one of the above methods.
 2. Create a multi action switch
 3. Add an Open to the first action and point it to the program
-4. Add a Close to the second action and point it to the program
+4. Add a Close to the second action and point it to stream-deck-close.bat
 
 # FAQ
 ## Can this work with Mac or Linux?
